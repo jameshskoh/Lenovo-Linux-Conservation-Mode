@@ -72,7 +72,7 @@ While this feature is exposed to Linux users, it is not the easiest thing to con
 #### Tested Devices
 
 * IdeaPad 5 Pro Gen 6 14'
-
+* Legion 5 (15ACH6H)
 
 
 ## References
