@@ -72,6 +72,7 @@ While this feature is exposed to Linux users, it is not the easiest thing to con
 #### Tested Devices
 
 * IdeaPad 5 Pro Gen 6 14'
+* IdeaPad 5 Pro Gen 8 14' [83AM001DCK](https://psref.lenovo.com/Detail/IdeaPad/IdeaPad_Pro_5_14APH8?M=83AM001DCK)
 
 
 
