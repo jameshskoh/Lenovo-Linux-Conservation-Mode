@@ -6,6 +6,8 @@ While this feature is exposed to Linux users, it is not the easiest thing to con
 
 `Lenovo-Linux-Conservation-Mode` provides a more convenient way to toggle Conservation Mode in a Linux environment.
 
+**Contributing to the tested device list is welcome! Feel free to create a PR and I will merge it in.**
+
 
 
 ### Software Requirements
@@ -71,8 +73,10 @@ While this feature is exposed to Linux users, it is not the easiest thing to con
 
 #### Tested Devices
 
-* IdeaPad 5 Pro Gen 6 14'
+* IdeaPad 5 Pro Gen 6 14' [82L7006CMJ](https://psref.lenovo.com/Detail/IdeaPad/IdeaPad_5_Pro_14ACN6?M=82L7006CMJ)
+* IdeaPad 5 Pro Gen 8 14' [83AM001DCK](https://psref.lenovo.com/Detail/IdeaPad/IdeaPad_Pro_5_14APH8?M=83AM001DCK)
 * Legion 5 (15ACH6H)
+
 
 
 ## References
