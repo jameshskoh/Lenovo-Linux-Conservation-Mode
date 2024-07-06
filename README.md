@@ -78,6 +78,7 @@ While this feature is exposed to Linux users, it is not the easiest thing to con
 * Legion 5 (15ACH6H)
 * IdeaPad S145-15IWL
 * Yoga C740-14IML [81TC005KAU](https://psref.lenovo.com/Detail/Yoga/Yoga_C740_14IML?M=81TC005KAU)
+* Yoga 300w Gen 4 [82VM000EHV](https://psref.lenovo.com/Detail/Lenovo/Lenovo_300w_Yoga_Gen_4?M=82VM000EHV)
 
 
 
