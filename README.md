@@ -79,6 +79,7 @@ While this feature is exposed to Linux users, it is not the easiest thing to con
 * IdeaPad S145-15IWL
 * Yoga C740-14IML [81TC005KAU](https://psref.lenovo.com/Detail/Yoga/Yoga_C740_14IML?M=81TC005KAU)
 * IdeaPad Slim 5 14IAH8 [83BF005GFR](https://psref.lenovo.com/Detail/IdeaPad/IdeaPad_Slim_5_14IAH8?M=83BF005GFR)
+* Lenovo LOQ 15IRH8 82XV
 
 
 
