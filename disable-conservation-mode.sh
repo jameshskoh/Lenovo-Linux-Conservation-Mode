@@ -31,7 +31,7 @@ then
         echo "Previous configuration backed up."
 
         echo "Appending config with $RESULT"
-        echo $RESULT >> $FILEPATH
+        echo "$RESULT" | tee -a "$FILEPATH" > /dev/null
     fi
 
 else
@@ -40,7 +40,7 @@ else
     echo "Creating new configuration at $FILEPATH"
 
     echo ""
-    echo $RESULT > $FILEPATH
+    echo "$RESULT" | tee "$FILEPATH" > /dev/null
 fi
 
 tlp start
