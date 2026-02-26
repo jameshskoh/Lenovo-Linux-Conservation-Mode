@@ -81,7 +81,7 @@ While this feature is exposed to Linux users, it is not the easiest thing to con
 * IdeaPad Slim 5 14IAH8 [83BF005GFR](https://psref.lenovo.com/Detail/IdeaPad/IdeaPad_Slim_5_14IAH8?M=83BF005GFR)
 * Lenovo LOQ 15IRH8 82XV
 * Legion Pro 5 16IRX8 [82WK00EGMX](https://psref.lenovo.com/Compare/Detail/Legion_Pro_5_16IRX8?M=82WK00EGMX)
-
+* Lenovo Yoga Slim 7i [83GM0003BR](https://psref.lenovo.com/Detail/Yoga_Slim_7_14IMH9?M=83GM0003BR)
 
 
 ## References
